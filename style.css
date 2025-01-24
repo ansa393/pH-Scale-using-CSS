@@ -1,0 +1,56 @@
+*{
+    background-color: gray;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 7px;
+}
+h1{
+    background-color: lightgray;
+    color: black;
+}
+p.zero{
+    background-color: rgb(51, 51, 139);
+}
+p.one{
+    background-color: rgb(59, 59, 145);
+}
+p.two{
+    background-color: rgb(61, 61, 129);
+}
+p.three{
+    background-color: rgb(76, 76, 134);
+}
+p.four{
+    background-color: rgb(87, 87, 121);
+}
+p.five{
+    background-color: rgb(103, 103, 133);
+}
+p.six{
+    background-color: rgb(109, 109, 138);
+}
+p.seven{
+    background-color:rgb(25, 121, 25) ;
+}
+p.eight{
+    background-color: rgb(224, 196, 200);
+}
+p.nine{
+    background-color:rgb(224, 184, 190);
+}
+p.ten{
+background-color: rgb(206, 161, 169);
+}
+p.eleven{
+background-color: rgb(184, 125, 134);
+}
+p.twelve{
+background-color: rgb(187, 122, 133);
+}
+p.thirteen{
+background-color: rgb(167, 70, 86);
+}
+p.fourteen{
+    background-color: rgb(179, 54, 92);
+}
